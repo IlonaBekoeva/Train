@@ -32,4 +32,5 @@
 * озвучивание образов
 
 Ссылка на текст курсовой работы: https://docs.google.com/document/d/19zmvRFRe4nJ_96ThIgzWdJTo5EyV3qAp-dOMc-Trm4o/edit?usp=sharing 
+
 Ссылка на презентацию курсовой работы: https://docs.google.com/presentation/d/1Mc-72WotIeDzLkksBb6EGWdEFHUbJaZM5IIv-eg6AAQ/edit?usp=sharing
