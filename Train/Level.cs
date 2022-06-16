@@ -10,8 +10,7 @@ namespace Train
         public static int[] level_lst = { 8, 16, 24 };
         public List<int> IndexesCards;
         public List<int> IndexesWagons;
-
-        Random rnd = new Random();
+        Random rnd = new Random(); 
         public Level(int lev)
         {
             level = lev;
